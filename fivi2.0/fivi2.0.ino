@@ -12,10 +12,10 @@
 #include "DHT.h"
 
 
-#define WIFI_SSID "HOME-9C39"
-#define WIFI_PASSWORD "ABC2514ECF4241CA"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
-#define FIREBASE_HOST "fivi-31d19-default-rtdb.firebaseio.com"
+#define FIREBASE_HOST ""
 
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
@@ -24,7 +24,7 @@
 /** The database secret is obsoleted, please use other authentication methods,
    see examples in the Authentications folder.
 */
-#define FIREBASE_AUTH "NdNnSqss4xEny1gR6cVnrioqTaHEcVZieFNPCNLo"
+#define FIREBASE_AUTH ""
 
 #define DHTTYPE DHT22   // DHT 22  (AM2302), AM2321
 
